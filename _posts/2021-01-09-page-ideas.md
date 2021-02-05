@@ -1,7 +1,7 @@
 ---
 title: Page Ideas
 author: Nathan M.
-date: 2021-01-09 00:15:00
+date: 2021-01-09
 categories: [Meta]
 tags: [Meta]
 pin: true
